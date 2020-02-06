@@ -1,0 +1,27 @@
+.red {
+    color: blueviolet;
+}
+.bold {
+    font-weight: bold;
+}
+/* .Cockpoint button{
+    border: 1px solid blue;
+    padding: 16px;
+    background-color: green;
+    font: inherit;
+    color: white;
+    cursor: pointer;
+}
+ .Cockpoint button:hover {
+     background-color: lightgreen;
+     color: black;
+ }
+
+ .Cockpoint button.Red {
+     background-color: red;
+ }
+
+ .Cockpoint button.Red:hover {
+     background-color: salmon;
+     color: black;
+ } */
